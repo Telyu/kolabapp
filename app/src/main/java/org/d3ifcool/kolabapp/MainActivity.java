@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Todo : Comment X
-        
+        //nama : septy
+
     }
 }
